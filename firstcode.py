@@ -1,3 +1,3 @@
 a = 1
 b = 3
-print(a+b)
+print("addition of two number",a+b)
