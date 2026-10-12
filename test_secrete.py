@@ -1,1 +1,1 @@
-API_KEY = "sk_test_1234567890abcdef1234567890"
+AUTH_TOKEN = "ghp_1234567890abcdefghijklmnopqrstuvwxyz"
